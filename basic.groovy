@@ -1,4 +1,4 @@
-procedure 'basic', {
+procedure 'basic1', {
   description = ''
   jobNameTemplate = ''
   projectName = 'Default'
