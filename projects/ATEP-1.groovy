@@ -1,4 +1,4 @@
-project 'ATEP', {
+project 'ATEP-1', {
   tracked = '1'
   workspaceName = 'default'
 
