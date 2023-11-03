@@ -1,3 +1,3 @@
-project 'test3', {
+project 'test', {
   tracked = '1'
 }
