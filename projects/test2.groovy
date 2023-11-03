@@ -1,4 +1,4 @@
-project 'test2', {
+project 'test2_project', {
   tracked = '1'
 
   // Custom properties
