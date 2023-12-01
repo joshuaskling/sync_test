@@ -1,4 +1,4 @@
-pipeline 'test_pipeline', {
+pipeline 'test_pipeline_2', {
   disableMultipleActiveRuns = '0'
   disableRestart = '0'
   enabled = '1'
