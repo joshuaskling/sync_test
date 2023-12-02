@@ -1,5 +1,5 @@
 pipeline 'basic_pipeline', {
-  projectName = 'D'
+  projectName = 'Default'
 
   formalParameter 'ec_stagesToRun', {
     expansionDeferred = '1'
